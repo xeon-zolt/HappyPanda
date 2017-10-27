@@ -8,9 +8,9 @@ A game opposite to Blue Whale
 
 <table>
     <tr>
-     <td><img src="/Docs/Screenshots/Screenshot_1509038977.png"></td>
-     <td><img src="/Docs/Screenshots/layout-2017-10-26-230457.png"></td>
-     <td><img src="/Docs/Screenshots/Screenshot_1509038985.png"></td>
-     <td><img src="/Docs/Screenshots/layout-2017-10-26-230046.png"></td>
+     <td><img src="/Docs/Screenshots/Screenshot_1509038977.png" style="width: 200px;></td>
+     <td><img src="/Docs/Screenshots/layout-2017-10-26-230457.png" style="width: 200px;></td>
+     <td><img src="/Docs/Screenshots/Screenshot_1509038985.png" style="width: 200px;></td>
+     <td><img src="/Docs/Screenshots/layout-2017-10-26-230046.png" style="width: 200px;></td>
     </tr>
 </table>
