@@ -6,9 +6,7 @@ A game opposite to Blue Whale
 
 ## Screenshots
 
-<div>
- <div style="width:50%"><img src="/Docs/Screenshots/Screenshot_1509038977.png"></div>
- <div style="width:50%"><img src="/Docs/Screenshots/layout-2017-10-26-230457.png"></div>
- <div style="width:50%"><img src="/Docs/Screenshots/Screenshot_1509038985.png"></div>
- <div style="width:50%"><img src="/Docs/Screenshots/layout-2017-10-26-230046.png"></div>
-</div>
+![ScreenShot1]( /Docs/Screenshots/Screenshot_1509038977.png =432x768)
+![ScreenShot2] (/Docs/Screenshots/layout-2017-10-26-230457.png =432x768)
+![ScreenShot3] (/Docs/Screenshots/Screenshot_1509038985.png =432x768)
+![ScreenShot4] (/Docs/Screenshots/layout-2017-10-26-230046.png =432x768)
