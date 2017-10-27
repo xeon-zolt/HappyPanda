@@ -6,8 +6,8 @@ A game opposite to Blue Whale
 
 ## Screenshots
 
-<div>
- <div><img src="/Docs/Screenshots/Screenshot_1509038977.png"></div>
+<div style="height: 300px;">
+ <div  style=" height:100%; width:100%;"><img src="/Docs/Screenshots/Screenshot_1509038977.png"></div>
  <div><img src="/Docs/Screenshots/layout-2017-10-26-230457.png"></div>
  <div><img src="/Docs/Screenshots/Screenshot_1509038985.png"></div>
  <div><img src="/Docs/Screenshots/layout-2017-10-26-230046.png"></div>
